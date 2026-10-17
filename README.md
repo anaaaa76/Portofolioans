@@ -333,7 +333,6 @@
             <div class="header-avatar">
                 <!-- Foto Profil -->
             <img src="./FOTO/anna_cantik.jpeg.jpeg" alt="Foto Profil Nurhasanah">
-                   </header>
 
         <!-- Body Content -->
         <div class="cv-body">
