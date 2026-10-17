@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <title>Portofolio - Nurhasanah</title>
@@ -456,11 +456,6 @@
             </div>
 
         </div>
-    </div>
-
-    <!-- Tombol Simpan Ke PDF / Cetak -->
-    <div class="cv-actions">
-        <button onclick="window.print()" class="btn-print"><i class="fas fa-print"></i> Cetak / Simpan ke PDF</button>
     </div>
 
 </body>
